@@ -23,8 +23,8 @@ A proposta visa a aplicar conceitos fundamentais de programação em Python, com
 
 O projeto está organizado da seguinte forma:
 
-├── sistema_bancario_v1.py # Primeira versão do Sistema Bancário, restrita às operações de depósitos, saques e visualização de extrato;
-├── sistema_bancario_v2.py # Segunda versão do Sistema Bancário, com adição de funções de cadastro de usuários e de contas;
+├── sistema_bancario_v1.py # Primeira versão do Sistema Bancário, restrita às operações de depósitos, saques e visualização de extrato;  
+├── sistema_bancario_v2.py # Segunda versão do Sistema Bancário, com adição de funções de cadastro de usuários e de contas;  
 ├── README.md # Este arquivo
 
 ## ✅ Requisitos Atendidos
